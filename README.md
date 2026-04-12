@@ -33,3 +33,14 @@
 确保你的本地环境安装了必要的依赖（建议使用 Python 3.10+）：
 ```bash
 pip install -r requirements.txt
+
+## 🖼️ 运行效果展示
+
+### 1. 房产估值工作台
+![房产估值工作台](https://github.com/user-attachments/assets/8e28ccaa-a3a1-4532-8a94-846a73c1a955)
+
+
+### 2. 智能信贷风控决策
+<img width="1863" height="965" alt="信贷审批工作台" src="https://github.com/user-attachments/assets/1e28fbdd-2876-4d2c-b0c0-c61982708fa5" />
+
+
